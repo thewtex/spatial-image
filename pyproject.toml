@@ -24,7 +24,7 @@ dynamic = ["version"]
 dependencies = [
     "numpy",
     "xarray >=2024.10.0",
-    "xarray-dataclasses",
+    "xarray-dataclasses >=1.8.0",
 ]
 
 [tool.black]
